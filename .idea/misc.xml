@@ -4,9 +4,7 @@
     <bower-package value="" />
     <bower.json value="" />
   </component>
-  <component name="PrettierConfiguration">
-    <option name="myConfigurationMode" value="AUTOMATIC" />
-    <option name="myRunOnSave" value="true" />
-    <option name="myFilesPattern" value="{**/*,*}.{js,ts,jsx,tsx,vue,astro,json}" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="corretto-19" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
